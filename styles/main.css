@@ -10,6 +10,12 @@ html, body {
 p{
     line-height: 1.5;
 }
+
+.title {
+    font-family: 'cursive', 'Nanum Myeongjo', serif; 
+    font-weight: 300;
+}
+
 h2, h3, h4, h5, h6, p{
     font-family: 'Nanum Myeongjo', serif;
     font-weight: 300;
